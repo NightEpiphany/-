@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "plantable_golden_carrot:block/golden_carrots_stage2"
+  }
+}

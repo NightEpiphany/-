@@ -1,0 +1,8 @@
+{
+  "parent": "plantable_golden_carrot:block/template_golden_farmland",
+  "textures": {
+    "dirt": "minecraft:block/dirt",
+    "side": "plantable_golden_carrot:block/golden_farmland_side",
+    "top": "plantable_golden_carrot:block/golden_farmland"
+  }
+}

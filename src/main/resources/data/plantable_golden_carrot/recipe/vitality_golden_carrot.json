@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:golden_carrot"
+    },
+    "A": {
+      "item": "minecraft:totem_of_undying"
+    }
+  },
+  "pattern": [
+    "###",
+    "#A#",
+    "###"
+  ],
+  "result": {
+    "count": 8,
+    "id": "plantable_golden_carrot:vitality_golden_carrot"
+  }
+}

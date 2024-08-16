@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "com.moigferdsrte.plantable_golden_carrot.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "PlantableGoldenCarrotMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "client": [
+    "RenderLayerMixin"
+  ]
+}

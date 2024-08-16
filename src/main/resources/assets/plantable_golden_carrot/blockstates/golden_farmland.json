@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "moisture=0": {
+      "model": "plantable_golden_carrot:block/golden_farmland"
+    },
+    "moisture=1": {
+      "model": "plantable_golden_carrot:block/golden_farmland"
+    },
+    "moisture=2": {
+      "model": "plantable_golden_carrot:block/golden_farmland"
+    },
+    "moisture=3": {
+      "model": "plantable_golden_carrot:block/golden_farmland"
+    },
+    "moisture=4": {
+      "model": "plantable_golden_carrot:block/golden_farmland"
+    },
+    "moisture=5": {
+      "model": "plantable_golden_carrot:block/golden_farmland"
+    },
+    "moisture=6": {
+      "model": "plantable_golden_carrot:block/golden_farmland"
+    },
+    "moisture=7": {
+      "model": "plantable_golden_carrot:block/golden_farmland_moist"
+    }
+  }
+}

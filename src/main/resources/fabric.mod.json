@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "plantable_golden_carrot",
+	"version": "${version}",
+	"name": "Plantable Golden Carrot",
+	"description": "Make Golden Carrot Plantable, with balancing game mechanics!",
+	"authors": [
+		"NightEpiphany(Moigferdsrte)"
+	],
+	"contact": {
+		"homepage": "*",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC-BY-4.0",
+	"icon": "assets/plantable_golden_carrot/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.moigferdsrte.plantable_golden_carrot.PlantableGoldenCarrot"
+		],
+		"fabric-datagen": [
+			"com.moigferdsrte.plantable_golden_carrot.PlantableGoldenCarrotDataGenerator"
+		]
+	},
+	"mixins": [
+		"plantable_golden_carrot.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "1.21.X",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
